@@ -1,0 +1,14 @@
+.background {
+  background-image: linear-gradient(
+      rgba(253, 253, 253, 0.8),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("https://oldmercguy.co.za/wp-content/uploads/2024/07/445222029_768851405332861_2323575316083009108_n.jpg");
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}

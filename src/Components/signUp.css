@@ -1,0 +1,22 @@
+.addUserForm .inputGroup {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.addUserForm .inputGroup label {
+  margin-top: 10px;
+}
+
+.addUserForm .inputGroup input {
+  margin-top: 5px;
+  padding: 10px;
+}
+.inputGroup button {
+  margin-top: 10px;
+}
+.addUser h1 {
+  font-weight: bold;
+  color: rgb(248, 249, 249);
+  text-transform: uppercase;
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.7);
+}

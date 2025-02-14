@@ -1,0 +1,7 @@
+.grid {
+  min-height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 1rem;
+}
