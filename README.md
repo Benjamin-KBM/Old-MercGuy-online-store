@@ -19,9 +19,11 @@ doing this will allow the user to see the total amount on the top right hand cor
 # **How to Install and Run The Web Store**
 
 To launch the application do the following.
-
+* Download file and open in IDE of choice
+* extract and open termial
 * npm install
 * npm start
+  
 # ![Alt text](Old_MercGuy.png)
 # ![Alt text](Old_MercGuyLogin.png)
 # ![Alt text](Old_MercGuySignUp.png)
